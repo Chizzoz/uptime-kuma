@@ -1,4 +1,4 @@
-import "bootstrap";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle.js";
 import { createApp, h } from "vue";
 import contenteditable from "vue-contenteditable";
 import Toast from "vue-toastification";

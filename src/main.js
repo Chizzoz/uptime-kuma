@@ -16,7 +16,7 @@ import theme from "./mixins/theme";
 import lang from "./mixins/lang";
 import { router } from "./router";
 import { appName } from "./util.ts";
-import dayjs from "dayjs";
+import dayjs from "../node_modules/dayjs/index";
 import timezone from "./modules/dayjs/plugin/timezone";
 import utc from "../node_modules/dayjs/plugin/utc";
 import relativeTime from "../node_modules/dayjs/plugin/relativeTime";

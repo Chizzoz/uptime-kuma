@@ -1,0 +1,15 @@
+{
+    "name": "chizzo/uptime-kuma",
+    "autoload": {
+        "psr-4": {
+            "Chizzo\\UptimeKuma\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chinyanta Mwenya",
+            "email": "chinyanta.mwenya@softescu.com"
+        }
+    ],
+    "require": {}
+}

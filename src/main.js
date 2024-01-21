@@ -1,7 +1,7 @@
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle.js";
-import { createApp, h } from "vue";
-import contenteditable from "vue-contenteditable";
-import Toast from "vue-toastification";
+import { createApp, h } from "../node_modules/vue/dist/vue";
+import contenteditable from "../node_modules/vue-contenteditable/index";
+import Toast from "../node_modules/vue-toastification/dist/types/index";
 import "vue-toastification/dist/index.css";
 import App from "./App.vue";
 import "./assets/app.scss";
